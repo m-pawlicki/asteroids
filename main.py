@@ -24,7 +24,7 @@ def main():
 
     Asteroid.containers = (asteroids, updatable, drawable)
     AsteroidField.containers = (updatable)
-    field = AsteroidField()
+    AsteroidField()
 
     Shot.containers = (shots, updatable, drawable)
 
