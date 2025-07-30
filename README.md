@@ -1,1 +1,5 @@
-A simple asteroids clone made with pygame!
+# Asteroids
+An asteroids-clone made in pygame.
+
+# Usage
+`python main.py`
